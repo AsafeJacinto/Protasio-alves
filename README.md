@@ -16,7 +16,7 @@
 ## 📂 Projetos
 Aqui você encontra alguns dos meus projetos e estudos práticos:  
 - 🌐 [Portfólio Pessoal](https://github.com/AsafeJacinto/Protasio-alves/tree/HTML5) *(HTML + CSS)*  
-- 🐍 [Automação simples em Python](https://github.com/AsafeJacinto/Protasio-alves/tree/Logica-de-programacao-Py) *(scripts básicos)*  
+- 🐍 [Automação simples em Python](https://github.com/AsafeJacinto/Protasio-alves/tree/Logica-de-programa%C3%A7%C3%A3o-Py) *(scripts básicos)*
 
 ---
 
